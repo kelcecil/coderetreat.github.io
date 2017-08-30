@@ -1,0 +1,17 @@
+{
+  "title": "GDCR17 - Morgantown",
+  "url": "https://www.meetup.com/morgantown-codes/events/242954005/",
+  "moderators": [
+    "@praisechaos"
+  ],
+  "location": {
+    "city": "Morgantown",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 39.6350857,
+      "longitude": -79.9784847
+    },
+    "utcOffset": -4,
+    "timezone": "America/New_York"
+  }
+}
